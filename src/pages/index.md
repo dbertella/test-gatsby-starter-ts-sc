@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: >-
-  https://raw.githubusercontent.com/dbertella/test-gatsby-starter-ts-sc/master/static/img/flavor_wheel.jpg
+  https://raw.githubusercontent.com/dbertella/test-gatsby-starter-ts-sc/master/static/img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
