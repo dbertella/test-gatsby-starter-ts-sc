@@ -9,7 +9,7 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/screenshot-2019-03-04-at-14.45.01.png)
+![flavor wheel](https://raw.githubusercontent.com/dbertella/test-gatsby-starter-ts-sc/master/static/img/blog-index.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
